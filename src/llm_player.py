@@ -49,7 +49,7 @@ class LLMPlayer:
             # Add the result of the previous guess and/or error feedback
             content_parts = []
             if last_error:
-                content_parts.append(FORMAT_ERROR_MESSAGE)
+                content_parts.append(FORMAT_ERROR_MESSAGE.format(length=game.length))
             elif history:
                 last_guess, (bulls, cows) = history[-1]
                 content_parts.append(RESULT_TEMPLATE.format(bulls=bulls, cows=cows))

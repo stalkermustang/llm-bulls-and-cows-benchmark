@@ -12,7 +12,6 @@ from src.prompts import (
     REPEATING_DIGITS_ALLOWED,
     REPEATING_DIGITS_NOT_ALLOWED,
     RESULT_TEMPLATE,
-    SYSTEM_PROMPT,
 )
 
 
