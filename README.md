@@ -2,6 +2,9 @@
 
 A mini-framework for evaluating LLM performance on the [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_cows) number guessing game, supporting multiple providers through [LiteLLM](https://github.com/BerriAI/litellm).
 
+> [!NOTE]
+> TLDR: Bulls and Cows is a code-breaking game for two players. A player writes a 4-digit secret number. The digits must be all different (e.g., `1234`). Then another player (an LLM in this case) tries to guess the secret number (e.g., `1246`). For every guess the info of number of matches is returned. If the matching digits are in their right positions, they are "bulls" (two bulls in this example: `1` and `2`), if in different positions, they are "cows" (one cow, `4`). The correct solution requires Reasoning-to think of the next good guess-and In-Context memory-to learn from the past answers. It is proved that any 4-digit secret number can be solved within seven turns.
+
 ## Key Features
 
 - ✅ **Multiple LLM Support**: Compatible with various providers through [LiteLLM](https://github.com/BerriAI/litellm); virtually, almost any endpoint could be used
@@ -34,7 +37,7 @@ A mini-framework for evaluating LLM performance on the [Bulls and Cows](https://
 </details>
 
 
-> [!NOTE]
+> [!IMPORTANT]
 > For most of the runs, 50 games were played (excl. o1-mini), thus, Confidence Intervals are wide. If you'd like to spend $100-200 in API credits on tests to achieve more accurate results and make CIs narrower, please feel free to reach me or open a PR with your results.
 
 <details>
