@@ -1,0 +1,16 @@
+# Core dependencies
+litellm>=1.0.0,<2.0.0  # LLM API interactions
+numpy>=1.24.0,<2.0.0   # Numerical computations
+pyyaml>=6.0.0,<7.0.0   # Config file handling
+python-dotenv>=1.0.0,<2.0.0  # Environment variables management
+
+# UI and visualization
+rich>=13.7.0,<14.0.0   # Terminal UI and formatting
+plotly>=5.0.0,<6.0.0   # Results visualization
+scipy>=1.14.1,<2.0.0  # CI estimation
+
+# Development dependencies (optional)
+pytest>=7.0.0,<8.0.0   # Testing framework
+black>=23.11.0,<24.0.0 # Code formatting
+isort>=5.12.0,<6.0.0   # Import sorting
+pre-commit>=3.5.0,<4.0.0  # Git hooks management

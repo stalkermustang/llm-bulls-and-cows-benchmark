@@ -1,0 +1,19 @@
+llm:
+  model: "openai/o1-mini-2024-09-12"
+  # temperature: 0.7
+  # max_tokens: 250
+  # top_p: 1.0
+  max_retries: 5
+  litellm_verbose: false
+
+benchmark:
+  num_games: 25
+  max_turns: 15  # Maximum number of turns per game
+  target_length: 4  # Length of the target number
+  allow_repeating_digits: false
+  num_concurrent_games: 10  # Maximum number of games played simultaneously; affects TPS API limits
+
+output:
+  results_dir: "benchmark_results/4_digits/"
+  save_full_conversations: true
+  run_id: "o1mini-4d"
