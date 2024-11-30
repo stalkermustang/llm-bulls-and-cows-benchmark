@@ -1,0 +1,419 @@
+[2024-11-28 09:11:03.794] Configuration saved
+[2024-11-28 09:11:03.795] Game 1 started with target 412
+[2024-11-28 09:11:03.795] Game 0 started with target 425
+[2024-11-28 09:11:03.795] Game 2 started with target 940
+[2024-11-28 09:11:03.795] Game 4 started with target 483
+[2024-11-28 09:11:03.795] Game 3 started with target 137
+[2024-11-28 09:11:18.579] Game 3 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:11:18.584] Game 5 started with target 952
+[2024-11-28 09:11:20.960] Game 2 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:11:21.023] Game 6 started with target 942
+[2024-11-28 09:11:24.153] Game 0 - Turn 3: Guess=123, Result=(1, 0)
+[2024-11-28 09:11:28.801] Game 5 - Turn 1: Guess=357, Result=(1, 0)
+[2024-11-28 09:11:35.069] Game 4 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:11:35.093] Game 7 started with target 271
+[2024-11-28 09:11:40.764] Game 1 - Turn 2: Guess=059, Result=(0, 0)
+[2024-11-28 09:11:46.505] Game 7 - Turn 3: Guess=123, Result=(0, 2)
+[2024-11-28 09:11:56.053] Game 1 - Turn 4: Guess=123, Result=(0, 2)
+[2024-11-28 09:11:58.672] Game 7 - Turn 4: Guess=456, Result=(0, 0)
+[2024-11-28 09:12:07.564] Game 6 - Turn 2: Guess=036, Result=(0, 0)
+[2024-11-28 09:12:12.867] Game 0 - Turn 5: Guess=456, Result=(1, 1)
+[2024-11-28 09:12:13.289] Game 7 - Turn 5: Guess=017, Result=(0, 2)
+[2024-11-28 09:12:19.675] Game 6 - Turn 4: Guess=147, Result=(1, 0)
+[2024-11-28 09:13:06.006] Game 6 - Turn 6: Guess=125, Result=(0, 1)
+[2024-11-28 09:13:10.775] Game 5 - Turn 3: Guess=012, Result=(1, 0)
+[2024-11-28 09:13:14.879] Game 1 - Turn 6: Guess=142, Result=(1, 2)
+[2024-11-28 09:13:41.584] Game 1 - Turn 8: Guess=241, Result=(0, 3)
+[2024-11-28 09:13:53.793] Game 7 - Turn 6: Guess=721, Result=(1, 2)
+[2024-11-28 09:14:03.987] Game 6 - Turn 8: Guess=582, Result=(1, 0)
+[2024-11-28 09:14:24.610] Game 0 - Turn 8: Guess=789, Result=(0, 0)
+[2024-11-28 09:14:46.443] Game 7 - Turn 7: Guess=812, Result=(0, 2)
+[2024-11-28 09:14:57.079] Game 5 - Turn 5: Guess=047, Result=(0, 0)
+[2024-11-28 09:14:59.151] Game 1 - Turn 10: Guess=412, Result=(3, 0)
+[2024-11-28 09:14:59.221] Game 1 won after 10 turns. Format failures: 5
+[2024-11-28 09:14:59.276] Game 8 started with target 804
+[2024-11-28 09:15:05.877] Game 8 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:15:11.012] Game 7 - Turn 8: Guess=021, Result=(1, 1)
+[2024-11-28 09:15:13.026] Game 8 - Turn 2: Guess=456, Result=(0, 1)
+[2024-11-28 09:15:24.111] Game 8 - Turn 3: Guess=784, Result=(1, 1)
+[2024-11-28 09:15:37.460] Game 7 - Turn 9: Guess=102, Result=(0, 2)
+[2024-11-28 09:16:06.788] Game 0 - Turn 9: Guess=045, Result=(1, 1)
+[2024-11-28 09:16:53.803] Game 8 - Turn 4: Guess=798, Result=(0, 1)
+[2024-11-28 09:17:01.653] Game 0 - Turn 11: Guess=156, Result=(0, 1)
+[2024-11-28 09:17:09.916] Game 5 - Turn 7: Guess=689, Result=(0, 1)
+[2024-11-28 09:17:20.139] Game 8 - Turn 5: Guess=584, Result=(1, 1)
+[2024-11-28 09:17:24.781] Game 7 - Turn 10: Guess=217, Result=(1, 2)
+[2024-11-28 09:18:02.248] Game 7 - Turn 11: Guess=271, Result=(3, 0)
+[2024-11-28 09:18:02.268] Game 7 won after 11 turns. Format failures: 2
+[2024-11-28 09:18:02.311] Game 9 started with target 278
+[2024-11-28 09:18:06.460] Game 9 - Turn 1: Guess=012, Result=(0, 1)
+[2024-11-28 09:18:19.461] Game 0 - Turn 12: Guess=165, Result=(1, 0)
+[2024-11-28 09:18:19.499] Game 0 failed (max_turns_exceeded) after 12 turns. Format failures: 6
+[2024-11-28 09:18:19.543] Game 10 started with target 352
+[2024-11-28 09:18:19.568] Game 8 - Turn 6: Guess=685, Result=(0, 1)
+[2024-11-28 09:18:30.349] Game 5 - Turn 8: Guess=561, Result=(0, 1)
+[2024-11-28 09:18:42.165] Game 10 - Turn 3: Guess=135, Result=(0, 2)
+[2024-11-28 09:19:20.533] Game 9 - Turn 2: Guess=304, Result=(0, 0)
+[2024-11-28 09:19:38.899] Game 10 - Turn 5: Guess=521, Result=(0, 2)
+[2024-11-28 09:19:42.750] Game 8 - Turn 8: Guess=986, Result=(0, 1)
+[2024-11-28 09:20:01.362] Game 8 - Turn 9: Guess=059, Result=(0, 1)
+[2024-11-28 09:20:28.657] Game 9 - Turn 3: Guess=561, Result=(0, 0)
+[2024-11-28 09:20:46.131] Game 9 - Turn 4: Guess=728, Result=(1, 2)
+[2024-11-28 09:20:46.360] Game 8 - Turn 10: Guess=590, Result=(0, 1)
+[2024-11-28 09:21:04.585] Game 8 - Turn 11: Guess=280, Result=(0, 2)
+[2024-11-28 09:21:17.221] Game 10 - Turn 8: Guess=251, Result=(1, 1)
+[2024-11-28 09:21:43.247] Game 9 - Turn 5: Guess=827, Result=(0, 3)
+[2024-11-28 09:22:16.416] Game 9 - Turn 6: Guess=782, Result=(0, 3)
+[2024-11-28 09:22:38.275] Game 8 failed (max_turns_exceeded) after 12 turns. Format failures: 2
+[2024-11-28 09:22:38.337] Game 11 started with target 803
+[2024-11-28 09:22:43.998] Game 10 - Turn 11: Guess=205, Result=(0, 2)
+[2024-11-28 09:23:03.746] Game 6 failed (invalid_format_after_retries) after 11 turns. Format failures: 7
+[2024-11-28 09:23:03.810] Game 12 started with target 021
+[2024-11-28 09:23:07.023] Game 11 - Turn 1: Guess=123, Result=(1, 0)
+[2024-11-28 09:23:11.062] Game 9 - Turn 9: Guess=278, Result=(3, 0)
+[2024-11-28 09:23:11.131] Game 9 won after 9 turns. Format failures: 2
+[2024-11-28 09:23:11.161] Game 13 started with target 041
+[2024-11-28 09:23:15.703] Game 12 - Turn 1: Guess=059, Result=(1, 0)
+[2024-11-28 09:23:17.208] Game 10 failed (max_turns_exceeded) after 12 turns. Format failures: 8
+[2024-11-28 09:23:17.233] Game 14 started with target 639
+[2024-11-28 09:23:19.398] Game 5 failed (invalid_format_after_retries) after 11 turns. Format failures: 6
+[2024-11-28 09:23:19.435] Game 15 started with target 237
+[2024-11-28 09:23:21.613] Game 14 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:23:43.160] Game 13 - Turn 2: Guess=123, Result=(0, 1)
+[2024-11-28 09:24:03.956] Game 15 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:24:04.005] Game 16 started with target 973
+[2024-11-28 09:24:12.386] Game 14 - Turn 2: Guess=516, Result=(0, 1)
+[2024-11-28 09:24:13.139] Game 16 - Turn 1: Guess=123, Result=(1, 0)
+[2024-11-28 09:24:40.537] Game 14 - Turn 3: Guess=041, Result=(0, 0)
+[2024-11-28 09:25:02.466] Game 13 - Turn 3: Guess=415, Result=(0, 2)
+[2024-11-28 09:25:40.722] Game 13 - Turn 4: Guess=041, Result=(3, 0)
+[2024-11-28 09:25:40.741] Game 13 won after 4 turns. Format failures: 1
+[2024-11-28 09:25:40.793] Game 17 started with target 714
+[2024-11-28 09:25:45.076] Game 17 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:25:54.368] Game 14 - Turn 4: Guess=789, Result=(1, 0)
+[2024-11-28 09:26:22.176] Game 12 - Turn 2: Guess=012, Result=(1, 2)
+[2024-11-28 09:26:27.509] Game 14 - Turn 5: Guess=278, Result=(0, 0)
+[2024-11-28 09:26:38.804] Game 17 - Turn 2: Guess=451, Result=(0, 2)
+[2024-11-28 09:26:41.198] Game 12 - Turn 3: Guess=021, Result=(3, 0)
+[2024-11-28 09:26:41.251] Game 12 won after 3 turns. Format failures: 0
+[2024-11-28 09:26:41.271] Game 18 started with target 480
+[2024-11-28 09:26:42.181] Game 11 - Turn 2: Guess=145, Result=(0, 0)
+[2024-11-28 09:26:49.210] Game 14 - Turn 6: Guess=356, Result=(0, 2)
+[2024-11-28 09:27:02.060] Game 18 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:27:02.120] Game 19 started with target 063
+[2024-11-28 09:27:26.682] Game 19 - Turn 2: Guess=159, Result=(0, 0)
+[2024-11-28 09:27:27.073] Game 16 - Turn 2: Guess=456, Result=(0, 0)
+[2024-11-28 09:27:34.762] Game 19 - Turn 3: Guess=247, Result=(0, 0)
+[2024-11-28 09:27:39.708] Game 14 - Turn 7: Guess=536, Result=(1, 1)
+[2024-11-28 09:27:40.606] Game 19 - Turn 4: Guess=306, Result=(0, 3)
+[2024-11-28 09:27:57.398] Game 19 - Turn 5: Guess=630, Result=(0, 3)
+[2024-11-28 09:27:58.442] Game 16 - Turn 3: Guess=729, Result=(0, 2)
+[2024-11-28 09:28:08.154] Game 17 - Turn 4: Guess=615, Result=(1, 0)
+[2024-11-28 09:28:17.930] Game 14 - Turn 8: Guess=563, Result=(0, 2)
+[2024-11-28 09:28:31.828] Game 19 - Turn 6: Guess=836, Result=(0, 2)
+[2024-11-28 09:28:34.970] Game 16 - Turn 4: Guess=197, Result=(0, 2)
+[2024-11-28 09:28:37.416] Game 14 - Turn 9: Guess=635, Result=(2, 0)
+[2024-11-28 09:28:46.575] Game 17 - Turn 5: Guess=014, Result=(2, 0)
+[2024-11-28 09:29:06.385] Game 14 - Turn 11: Guess=635, Result=(2, 0)
+[2024-11-28 09:29:24.203] Game 11 - Turn 3: Guess=453, Result=(1, 0)
+[2024-11-28 09:29:27.212] Game 16 - Turn 5: Guess=973, Result=(3, 0)
+[2024-11-28 09:29:27.238] Game 16 won after 5 turns. Format failures: 0
+[2024-11-28 09:29:27.306] Game 20 started with target 935
+[2024-11-28 09:29:30.626] Game 17 - Turn 6: Guess=718, Result=(2, 0)
+[2024-11-28 09:29:36.467] Game 20 - Turn 2: Guess=123, Result=(0, 1)
+[2024-11-28 09:29:51.097] Game 11 - Turn 4: Guess=420, Result=(0, 1)
+[2024-11-28 09:29:52.465] Game 17 - Turn 7: Guess=714, Result=(3, 0)
+[2024-11-28 09:29:52.497] Game 17 won after 7 turns. Format failures: 1
+[2024-11-28 09:29:52.515] Game 21 started with target 038
+[2024-11-28 09:29:55.580] Game 21 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:30:00.332] Game 14 - Turn 12: Guess=635, Result=(2, 0)
+[2024-11-28 09:30:00.359] Game 14 failed (max_turns_exceeded) after 12 turns. Format failures: 1
+[2024-11-28 09:30:00.415] Game 22 started with target 067
+[2024-11-28 09:30:05.679] Game 22 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:30:10.502] Game 22 - Turn 2: Guess=456, Result=(0, 1)
+[2024-11-28 09:30:11.917] Game 19 - Turn 7: Guess=308, Result=(0, 2)
+[2024-11-28 09:30:19.675] Game 22 - Turn 3: Guess=547, Result=(1, 0)
+[2024-11-28 09:30:23.334] Game 20 - Turn 3: Guess=456, Result=(0, 1)
+[2024-11-28 09:30:44.693] Game 19 - Turn 8: Guess=680, Result=(0, 2)
+[2024-11-28 09:30:58.592] Game 22 - Turn 4: Guess=560, Result=(1, 1)
+[2024-11-28 09:31:07.948] Game 21 - Turn 2: Guess=345, Result=(0, 1)
+[2024-11-28 09:31:09.013] Game 22 - Turn 5: Guess=586, Result=(0, 1)
+[2024-11-28 09:31:15.328] Game 19 - Turn 9: Guess=806, Result=(0, 2)
+[2024-11-28 09:31:32.933] Game 22 - Turn 6: Guess=089, Result=(1, 0)
+[2024-11-28 09:31:41.214] Game 20 - Turn 4: Guess=714, Result=(0, 0)
+[2024-11-28 09:31:41.697] Game 19 - Turn 10: Guess=386, Result=(0, 2)
+[2024-11-28 09:31:46.939] Game 21 - Turn 3: Guess=637, Result=(1, 0)
+[2024-11-28 09:31:48.372] Game 11 - Turn 5: Guess=526, Result=(0, 0)
+[2024-11-28 09:32:12.649] Game 20 - Turn 5: Guess=258, Result=(0, 1)
+[2024-11-28 09:32:19.552] Game 21 - Turn 4: Guess=038, Result=(3, 0)
+[2024-11-28 09:32:19.607] Game 21 won after 4 turns. Format failures: 0
+[2024-11-28 09:32:19.657] Game 23 started with target 512
+[2024-11-28 09:32:23.667] Game 22 - Turn 7: Guess=059, Result=(1, 0)
+[2024-11-28 09:32:29.250] Game 19 - Turn 11: Guess=368, Result=(1, 1)
+[2024-11-28 09:32:33.085] Game 11 - Turn 6: Guess=063, Result=(1, 1)
+[2024-11-28 09:32:39.441] Game 20 - Turn 6: Guess=530, Result=(1, 1)
+[2024-11-28 09:32:40.494] Game 23 - Turn 3: Guess=135, Result=(0, 2)
+[2024-11-28 09:32:41.691] Game 22 - Turn 8: Guess=509, Result=(0, 1)
+[2024-11-28 09:33:12.101] Game 19 failed (max_turns_exceeded) after 12 turns. Format failures: 2
+[2024-11-28 09:33:12.120] Game 24 started with target 293
+[2024-11-28 09:33:12.540] Game 11 - Turn 7: Guess=703, Result=(2, 0)
+[2024-11-28 09:33:22.846] Game 22 - Turn 10: Guess=054, Result=(1, 0)
+[2024-11-28 09:33:31.344] Game 11 - Turn 8: Guess=803, Result=(3, 0)
+[2024-11-28 09:33:31.369] Game 11 won after 8 turns. Format failures: 0
+[2024-11-28 09:33:31.419] Game 25 started with target 437
+[2024-11-28 09:33:31.736] Game 24 - Turn 1: Guess=123, Result=(1, 1)
+[2024-11-28 09:33:38.045] Game 25 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:33:38.744] Game 22 - Turn 12: Guess=057, Result=(2, 0)
+[2024-11-28 09:33:38.782] Game 22 failed (max_turns_exceeded) after 12 turns. Format failures: 2
+[2024-11-28 09:33:38.832] Game 26 started with target 308
+[2024-11-28 09:33:40.310] Game 20 - Turn 7: Guess=852, Result=(0, 1)
+[2024-11-28 09:33:45.330] Game 23 - Turn 4: Guess=579, Result=(1, 0)
+[2024-11-28 09:33:47.487] Game 26 - Turn 2: Guess=012, Result=(0, 1)
+[2024-11-28 09:34:02.598] Game 26 - Turn 3: Guess=341, Result=(1, 0)
+[2024-11-28 09:34:29.494] Game 23 - Turn 5: Guess=520, Result=(1, 1)
+[2024-11-28 09:34:29.694] Game 20 - Turn 8: Guess=952, Result=(1, 1)
+[2024-11-28 09:34:49.650] Game 24 - Turn 2: Guess=243, Result=(2, 0)
+[2024-11-28 09:34:52.590] Game 26 - Turn 4: Guess=561, Result=(0, 0)
+[2024-11-28 09:35:04.065] Game 24 - Turn 3: Guess=203, Result=(2, 0)
+[2024-11-28 09:35:17.618] Game 25 - Turn 2: Guess=145, Result=(0, 1)
+[2024-11-28 09:35:19.075] Game 23 - Turn 6: Guess=542, Result=(2, 0)
+[2024-11-28 09:35:20.548] Game 20 - Turn 9: Guess=659, Result=(0, 2)
+[2024-11-28 09:35:28.119] Game 24 - Turn 4: Guess=253, Result=(2, 0)
+[2024-11-28 09:35:41.814] Game 24 - Turn 5: Guess=263, Result=(2, 0)
+[2024-11-28 09:35:46.374] Game 26 - Turn 5: Guess=789, Result=(0, 1)
+[2024-11-28 09:35:53.634] Game 24 - Turn 6: Guess=283, Result=(2, 0)
+[2024-11-28 09:35:57.281] Game 23 - Turn 7: Guess=546, Result=(1, 0)
+[2024-11-28 09:36:05.449] Game 24 - Turn 7: Guess=293, Result=(3, 0)
+[2024-11-28 09:36:05.477] Game 24 won after 7 turns. Format failures: 0
+[2024-11-28 09:36:05.521] Game 27 started with target 243
+[2024-11-28 09:36:18.580] Game 26 - Turn 6: Guess=798, Result=(1, 0)
+[2024-11-28 09:36:20.543] Game 27 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:36:20.617] Game 28 started with target 861
+[2024-11-28 09:36:41.929] Game 23 - Turn 9: Guess=504, Result=(1, 0)
+[2024-11-28 09:36:45.059] Game 28 - Turn 2: Guess=012, Result=(0, 1)
+[2024-11-28 09:37:02.600] Game 20 - Turn 10: Guess=596, Result=(0, 2)
+[2024-11-28 09:37:05.224] Game 23 - Turn 10: Guess=562, Result=(2, 0)
+[2024-11-28 09:37:12.669] Game 25 - Turn 4: Guess=204, Result=(0, 1)
+[2024-11-28 09:37:21.208] Game 28 - Turn 3: Guess=345, Result=(0, 0)
+[2024-11-28 09:37:30.017] Game 26 - Turn 7: Guess=897, Result=(0, 1)
+[2024-11-28 09:37:39.915] Game 25 - Turn 5: Guess=582, Result=(0, 0)
+[2024-11-28 09:37:46.554] Game 26 - Turn 8: Guess=978, Result=(1, 0)
+[2024-11-28 09:37:47.164] Game 28 - Turn 4: Guess=102, Result=(0, 1)
+[2024-11-28 09:38:13.713] Game 26 - Turn 9: Guess=987, Result=(0, 1)
+[2024-11-28 09:38:20.018] Game 26 - Turn 10: Guess=978, Result=(1, 0)
+[2024-11-28 09:38:27.937] Game 20 - Turn 11: Guess=895, Result=(1, 1)
+[2024-11-28 09:38:29.393] Game 26 - Turn 11: Guess=987, Result=(0, 1)
+[2024-11-28 09:38:42.902] Game 26 - Turn 12: Guess=879, Result=(0, 1)
+[2024-11-28 09:38:42.959] Game 26 failed (max_turns_exceeded) after 12 turns. Format failures: 1
+[2024-11-28 09:38:42.984] Game 29 started with target 621
+[2024-11-28 09:38:51.223] Game 23 - Turn 12: Guess=584, Result=(1, 0)
+[2024-11-28 09:38:51.273] Game 23 failed (max_turns_exceeded) after 12 turns. Format failures: 4
+[2024-11-28 09:38:51.288] Game 30 started with target 345
+[2024-11-28 09:38:52.491] Game 28 - Turn 5: Guess=670, Result=(0, 1)
+[2024-11-28 09:38:57.923] Game 30 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:39:06.281] Game 29 - Turn 3: Guess=059, Result=(0, 0)
+[2024-11-28 09:39:13.566] Game 25 - Turn 7: Guess=968, Result=(0, 0)
+[2024-11-28 09:39:16.293] Game 20 - Turn 12: Guess=592, Result=(0, 2)
+[2024-11-28 09:39:16.312] Game 20 failed (max_turns_exceeded) after 12 turns. Format failures: 1
+[2024-11-28 09:39:16.343] Game 31 started with target 527
+[2024-11-28 09:39:20.346] Game 29 - Turn 5: Guess=123, Result=(1, 1)
+[2024-11-28 09:39:27.674] Game 31 - Turn 1: Guess=123, Result=(1, 0)
+[2024-11-28 09:39:49.155] Game 30 - Turn 2: Guess=456, Result=(0, 2)
+[2024-11-28 09:40:26.534] Game 29 - Turn 7: Guess=324, Result=(1, 0)
+[2024-11-28 09:40:30.027] Game 25 - Turn 8: Guess=679, Result=(0, 1)
+[2024-11-28 09:40:42.735] Game 31 - Turn 3: Guess=145, Result=(0, 1)
+[2024-11-28 09:40:46.516] Game 25 - Turn 9: Guess=985, Result=(0, 0)
+[2024-11-28 09:40:48.004] Game 28 - Turn 6: Guess=809, Result=(1, 0)
+[2024-11-28 09:41:09.197] Game 30 - Turn 3: Guess=542, Result=(1, 1)
+[2024-11-28 09:41:12.804] Game 25 - Turn 10: Guess=412, Result=(1, 0)
+[2024-11-28 09:41:41.875] Game 25 - Turn 11: Guess=438, Result=(2, 0)
+[2024-11-28 09:41:57.137] Game 29 - Turn 9: Guess=178, Result=(0, 1)
+[2024-11-28 09:41:57.202] Game 31 - Turn 5: Guess=524, Result=(2, 0)
+[2024-11-28 09:42:15.741] Game 25 - Turn 12: Guess=439, Result=(2, 0)
+[2024-11-28 09:42:15.788] Game 25 failed (max_turns_exceeded) after 12 turns. Format failures: 2
+[2024-11-28 09:42:15.825] Game 32 started with target 620
+[2024-11-28 09:42:21.985] Game 28 - Turn 7: Guess=706, Result=(0, 1)
+[2024-11-28 09:42:30.916] Game 32 - Turn 1: Guess=123, Result=(1, 0)
+[2024-11-28 09:42:54.529] Game 28 - Turn 8: Guess=607, Result=(0, 1)
+[2024-11-28 09:43:01.906] Game 31 - Turn 6: Guess=024, Result=(1, 0)
+[2024-11-28 09:43:23.764] Game 32 - Turn 3: Guess=145, Result=(0, 0)
+[2024-11-28 09:43:31.323] Game 28 - Turn 9: Guess=918, Result=(0, 2)
+[2024-11-28 09:43:50.191] Game 31 - Turn 7: Guess=526, Result=(2, 0)
+[2024-11-28 09:43:50.644] Game 30 - Turn 4: Guess=145, Result=(2, 0)
+[2024-11-28 09:43:52.714] Game 28 - Turn 11: Guess=908, Result=(0, 1)
+[2024-11-28 09:44:01.466] Game 31 - Turn 8: Guess=527, Result=(3, 0)
+[2024-11-28 09:44:01.478] Game 31 won after 8 turns. Format failures: 2
+[2024-11-28 09:44:01.516] Game 33 started with target 524
+[2024-11-28 09:44:12.423] Game 32 - Turn 4: Guess=425, Result=(1, 0)
+[2024-11-28 09:44:16.345] Game 30 - Turn 6: Guess=415, Result=(1, 1)
+[2024-11-28 09:44:21.707] Game 33 - Turn 3: Guess=123, Result=(1, 0)
+[2024-11-28 09:44:22.252] Game 28 - Turn 12: Guess=819, Result=(1, 1)
+[2024-11-28 09:44:22.274] Game 28 failed (max_turns_exceeded) after 12 turns. Format failures: 2
+[2024-11-28 09:44:22.312] Game 34 started with target 921
+[2024-11-28 09:44:44.089] Game 34 - Turn 2: Guess=123, Result=(1, 1)
+[2024-11-28 09:44:45.123] Game 30 - Turn 7: Guess=451, Result=(0, 2)
+[2024-11-28 09:45:00.335] Game 32 - Turn 5: Guess=026, Result=(1, 2)
+[2024-11-28 09:45:09.277] Game 30 - Turn 9: Guess=345, Result=(3, 0)
+[2024-11-28 09:45:09.330] Game 30 won after 9 turns. Format failures: 2
+[2024-11-28 09:45:09.373] Game 35 started with target 896
+[2024-11-28 09:45:30.770] Game 33 - Turn 5: Guess=145, Result=(0, 2)
+[2024-11-28 09:45:50.612] Game 32 - Turn 7: Guess=620, Result=(3, 0)
+[2024-11-28 09:45:50.667] Game 32 won after 7 turns. Format failures: 2
+[2024-11-28 09:45:50.698] Game 36 started with target 456
+[2024-11-28 09:45:56.491] Game 34 - Turn 4: Guess=134, Result=(0, 1)
+[2024-11-28 09:46:46.473] Game 29 - Turn 10: Guess=361, Result=(1, 1)
+[2024-11-28 09:46:55.500] Game 34 - Turn 5: Guess=243, Result=(0, 1)
+[2024-11-28 09:47:05.120] Game 29 - Turn 12: Guess=376, Result=(0, 1)
+[2024-11-28 09:47:05.145] Game 29 failed (max_turns_exceeded) after 12 turns. Format failures: 6
+[2024-11-28 09:47:05.182] Game 37 started with target 351
+[2024-11-28 09:47:35.722] Game 37 - Turn 2: Guess=123, Result=(0, 2)
+[2024-11-28 09:47:49.830] Game 33 - Turn 8: Guess=513, Result=(1, 0)
+[2024-11-28 09:47:54.976] Game 36 failed (invalid_format_after_retries) after 3 turns. Format failures: 3
+[2024-11-28 09:47:55.019] Game 38 started with target 834
+[2024-11-28 09:48:01.341] Game 37 - Turn 3: Guess=230, Result=(0, 1)
+[2024-11-28 09:48:03.075] Game 38 - Turn 2: Guess=123, Result=(0, 1)
+[2024-11-28 09:48:10.514] Game 38 - Turn 3: Guess=231, Result=(1, 0)
+[2024-11-28 09:48:48.415] Game 33 - Turn 9: Guess=410, Result=(0, 1)
+[2024-11-28 09:48:56.227] Game 37 - Turn 4: Guess=142, Result=(0, 1)
+[2024-11-28 09:48:59.574] Game 34 - Turn 6: Guess=521, Result=(2, 0)
+[2024-11-28 09:49:39.322] Game 37 - Turn 5: Guess=314, Result=(1, 1)
+[2024-11-28 09:49:47.965] Game 34 - Turn 7: Guess=520, Result=(1, 0)
+[2024-11-28 09:49:50.633] Game 33 - Turn 10: Guess=104, Result=(1, 0)
+[2024-11-28 09:50:01.755] Game 34 - Turn 8: Guess=543, Result=(0, 0)
+[2024-11-28 09:50:05.505] Game 33 - Turn 11: Guess=416, Result=(0, 1)
+[2024-11-28 09:50:14.629] Game 34 - Turn 9: Guess=678, Result=(0, 0)
+[2024-11-28 09:50:17.900] Game 37 - Turn 6: Guess=351, Result=(3, 0)
+[2024-11-28 09:50:17.938] Game 37 won after 6 turns. Format failures: 1
+[2024-11-28 09:50:17.969] Game 39 started with target 847
+[2024-11-28 09:50:25.415] Game 33 - Turn 12: Guess=714, Result=(1, 0)
+[2024-11-28 09:50:25.466] Game 33 failed (max_turns_exceeded) after 12 turns. Format failures: 5
+[2024-11-28 09:50:25.485] Game 40 started with target 896
+[2024-11-28 09:50:27.256] Game 34 - Turn 10: Guess=920, Result=(2, 0)
+[2024-11-28 09:50:28.114] Game 39 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:50:30.324] Game 40 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:50:33.807] Game 40 - Turn 2: Guess=456, Result=(1, 0)
+[2024-11-28 09:50:37.122] Game 39 - Turn 2: Guess=456, Result=(0, 1)
+[2024-11-28 09:50:44.767] Game 39 - Turn 3: Guess=745, Result=(1, 1)
+[2024-11-28 09:51:07.295] Game 34 - Turn 11: Guess=926, Result=(2, 0)
+[2024-11-28 09:51:12.084] Game 39 - Turn 4: Guess=485, Result=(0, 2)
+[2024-11-28 09:51:16.075] Game 38 - Turn 5: Guess=435, Result=(1, 1)
+[2024-11-28 09:51:16.697] Game 35 - Turn 3: Guess=586, Result=(1, 1)
+[2024-11-28 09:51:22.317] Game 34 - Turn 12: Guess=921, Result=(3, 0)
+[2024-11-28 09:51:22.337] Game 34 won after 12 turns. Format failures: 2
+[2024-11-28 09:51:22.405] Game 41 started with target 986
+[2024-11-28 09:51:29.682] Game 41 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:51:32.051] Game 40 - Turn 3: Guess=789, Result=(0, 2)
+[2024-11-28 09:51:34.822] Game 41 - Turn 2: Guess=456, Result=(1, 0)
+[2024-11-28 09:51:35.201] Game 39 - Turn 5: Guess=647, Result=(2, 0)
+[2024-11-28 09:51:54.997] Game 39 - Turn 6: Guess=640, Result=(1, 0)
+[2024-11-28 09:52:02.733] Game 40 - Turn 4: Guess=497, Result=(1, 0)
+[2024-11-28 09:52:17.903] Game 41 - Turn 3: Guess=478, Result=(0, 1)
+[2024-11-28 09:52:31.641] Game 39 - Turn 7: Guess=547, Result=(2, 0)
+[2024-11-28 09:52:39.113] Game 38 - Turn 7: Guess=536, Result=(1, 0)
+[2024-11-28 09:52:41.015] Game 35 - Turn 6: Guess=586, Result=(1, 1)
+[2024-11-28 09:52:57.451] Game 40 - Turn 5: Guess=758, Result=(0, 1)
+[2024-11-28 09:53:01.988] Game 39 - Turn 8: Guess=547, Result=(2, 0)
+[2024-11-28 09:53:12.497] Game 39 - Turn 9: Guess=540, Result=(1, 0)
+[2024-11-28 09:53:12.997] Game 35 - Turn 8: Guess=586, Result=(1, 1)
+[2024-11-28 09:53:18.475] Game 38 - Turn 8: Guess=034, Result=(2, 0)
+[2024-11-28 09:53:18.807] Game 35 - Turn 9: Guess=586, Result=(1, 1)
+[2024-11-28 09:53:27.626] Game 35 - Turn 11: Guess=586, Result=(1, 1)
+[2024-11-28 09:53:28.089] Game 38 - Turn 9: Guess=634, Result=(2, 0)
+[2024-11-28 09:53:30.679] Game 35 failed (max_turns_exceeded) after 12 turns. Format failures: 7
+[2024-11-28 09:53:30.746] Game 42 started with target 038
+[2024-11-28 09:53:34.806] Game 38 - Turn 10: Guess=734, Result=(2, 0)
+[2024-11-28 09:53:35.398] Game 40 - Turn 6: Guess=897, Result=(2, 0)
+[2024-11-28 09:53:38.350] Game 38 - Turn 11: Guess=834, Result=(3, 0)
+[2024-11-28 09:53:38.392] Game 38 won after 11 turns. Format failures: 3
+[2024-11-28 09:53:38.430] Game 43 started with target 594
+[2024-11-28 09:53:52.704] Game 42 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:53:57.161] Game 39 - Turn 11: Guess=547, Result=(2, 0)
+[2024-11-28 09:54:04.177] Game 41 - Turn 4: Guess=759, Result=(0, 1)
+[2024-11-28 09:54:04.655] Game 39 - Turn 12: Guess=846, Result=(2, 0)
+[2024-11-28 09:54:04.708] Game 39 failed (max_turns_exceeded) after 12 turns. Format failures: 1
+[2024-11-28 09:54:04.732] Game 44 started with target 574
+[2024-11-28 09:54:09.750] Game 44 - Turn 1: Guess=012, Result=(0, 0)
+[2024-11-28 09:54:14.095] Game 44 - Turn 2: Guess=345, Result=(0, 2)
+[2024-11-28 09:54:15.340] Game 40 - Turn 7: Guess=097, Result=(1, 0)
+[2024-11-28 09:54:18.083] Game 43 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:54:31.743] Game 43 - Turn 2: Guess=045, Result=(0, 2)
+[2024-11-28 09:54:45.677] Game 40 - Turn 8: Guess=890, Result=(2, 0)
+[2024-11-28 09:54:53.542] Game 42 - Turn 2: Guess=415, Result=(0, 0)
+[2024-11-28 09:55:00.825] Game 43 - Turn 3: Guess=504, Result=(2, 0)
+[2024-11-28 09:55:03.200] Game 40 - Turn 9: Guess=896, Result=(3, 0)
+[2024-11-28 09:55:03.248] Game 40 won after 9 turns. Format failures: 0
+[2024-11-28 09:55:03.279] Game 45 started with target 493
+[2024-11-28 09:55:11.314] Game 45 - Turn 2: Guess=123, Result=(1, 0)
+[2024-11-28 09:55:22.808] Game 45 - Turn 3: Guess=145, Result=(0, 1)
+[2024-11-28 09:55:36.377] Game 41 - Turn 5: Guess=706, Result=(1, 0)
+[2024-11-28 09:55:51.646] Game 44 - Turn 3: Guess=536, Result=(1, 0)
+[2024-11-28 09:56:08.387] Game 43 - Turn 4: Guess=506, Result=(1, 0)
+[2024-11-28 09:56:20.077] Game 42 - Turn 3: Guess=367, Result=(0, 1)
+[2024-11-28 09:56:25.757] Game 45 - Turn 4: Guess=426, Result=(1, 0)
+[2024-11-28 09:56:40.586] Game 45 - Turn 5: Guess=724, Result=(0, 1)
+[2024-11-28 09:56:41.214] Game 44 - Turn 4: Guess=574, Result=(3, 0)
+[2024-11-28 09:56:41.248] Game 44 won after 4 turns. Format failures: 0
+[2024-11-28 09:56:41.279] Game 46 started with target 174
+[2024-11-28 09:56:46.804] Game 43 - Turn 5: Guess=507, Result=(1, 0)
+[2024-11-28 09:56:57.344] Game 43 - Turn 6: Guess=508, Result=(1, 0)
+[2024-11-28 09:57:03.985] Game 43 - Turn 7: Guess=509, Result=(1, 1)
+[2024-11-28 09:57:09.340] Game 46 - Turn 3: Guess=123, Result=(1, 0)
+[2024-11-28 09:57:17.277] Game 42 - Turn 4: Guess=938, Result=(2, 0)
+[2024-11-28 09:57:26.907] Game 42 - Turn 5: Guess=930, Result=(1, 1)
+[2024-11-28 09:57:32.599] Game 41 - Turn 6: Guess=786, Result=(2, 0)
+[2024-11-28 09:57:39.607] Game 45 - Turn 6: Guess=824, Result=(0, 1)
+[2024-11-28 09:57:47.160] Game 41 - Turn 7: Guess=796, Result=(1, 1)
+[2024-11-28 09:57:55.973] Game 45 - Turn 7: Guess=924, Result=(0, 2)
+[2024-11-28 09:58:00.289] Game 43 - Turn 8: Guess=580, Result=(1, 0)
+[2024-11-28 09:58:20.919] Game 43 - Turn 9: Guess=590, Result=(2, 0)
+[2024-11-28 09:58:24.005] Game 45 - Turn 8: Guess=624, Result=(0, 1)
+[2024-11-28 09:58:31.588] Game 46 - Turn 5: Guess=145, Result=(1, 1)
+[2024-11-28 09:58:44.821] Game 45 - Turn 9: Guess=524, Result=(0, 1)
+[2024-11-28 09:58:45.063] Game 43 - Turn 10: Guess=560, Result=(1, 0)
+[2024-11-28 09:58:58.562] Game 43 - Turn 11: Guess=570, Result=(1, 0)
+[2024-11-28 09:58:59.559] Game 45 - Turn 10: Guess=456, Result=(1, 0)
+[2024-11-28 09:59:05.667] Game 45 - Turn 11: Guess=475, Result=(1, 0)
+[2024-11-28 09:59:20.379] Game 43 - Turn 12: Guess=596, Result=(2, 0)
+[2024-11-28 09:59:20.436] Game 43 failed (max_turns_exceeded) after 12 turns. Format failures: 0
+[2024-11-28 09:59:20.468] Game 47 started with target 469
+[2024-11-28 09:59:21.737] Game 45 - Turn 12: Guess=675, Result=(0, 0)
+[2024-11-28 09:59:21.768] Game 45 failed (max_turns_exceeded) after 12 turns. Format failures: 1
+[2024-11-28 09:59:21.824] Game 48 started with target 035
+[2024-11-28 09:59:26.372] Game 47 - Turn 1: Guess=123, Result=(0, 0)
+[2024-11-28 09:59:37.946] Game 48 - Turn 1: Guess=123, Result=(0, 1)
+[2024-11-28 09:59:45.749] Game 41 - Turn 10: Guess=760, Result=(0, 1)
+[2024-11-28 09:59:45.892] Game 47 - Turn 2: Guess=456, Result=(1, 1)
+[2024-11-28 10:00:39.416] Game 48 - Turn 2: Guess=456, Result=(0, 1)
+[2024-11-28 10:00:56.964] Game 41 - Turn 11: Guess=678, Result=(0, 2)
+[2024-11-28 10:01:02.111] Game 47 - Turn 4: Guess=754, Result=(0, 1)
+[2024-11-28 10:01:25.023] Game 48 - Turn 3: Guess=078, Result=(1, 0)
+[2024-11-28 10:01:44.618] Game 41 failed (max_turns_exceeded) after 12 turns. Format failures: 3
+[2024-11-28 10:01:44.654] Game 49 started with target 109
+[2024-11-28 10:02:01.002] Game 47 - Turn 5: Guess=460, Result=(2, 0)
+[2024-11-28 10:02:05.948] Game 48 - Turn 4: Guess=014, Result=(1, 0)
+[2024-11-28 10:02:08.449] Game 49 - Turn 2: Guess=123, Result=(1, 0)
+[2024-11-28 10:02:10.266] Game 46 - Turn 6: Guess=150, Result=(1, 0)
+[2024-11-28 10:02:23.838] Game 48 - Turn 5: Guess=062, Result=(1, 0)
+[2024-11-28 10:02:41.235] Game 46 - Turn 7: Guess=164, Result=(2, 0)
+[2024-11-28 10:02:46.600] Game 47 - Turn 6: Guess=468, Result=(2, 0)
+[2024-11-28 10:02:49.735] Game 48 - Turn 6: Guess=035, Result=(3, 0)
+[2024-11-28 10:02:49.785] Game 48 won after 6 turns. Format failures: 0
+[2024-11-28 10:02:53.226] Game 46 - Turn 8: Guess=174, Result=(3, 0)
+[2024-11-28 10:02:53.296] Game 46 won after 8 turns. Format failures: 3
+[2024-11-28 10:02:57.554] Game 47 - Turn 7: Guess=469, Result=(3, 0)
+[2024-11-28 10:02:57.597] Game 47 won after 7 turns. Format failures: 1
+[2024-11-28 10:03:14.003] Game 49 - Turn 4: Guess=456, Result=(0, 0)
+[2024-11-28 10:03:34.403] Game 42 failed (invalid_format_after_retries) after 8 turns. Format failures: 3
+[2024-11-28 10:04:12.335] Game 49 - Turn 6: Guess=107, Result=(2, 0)
+[2024-11-28 10:04:49.961] Game 49 - Turn 8: Guess=108, Result=(2, 0)
+[2024-11-28 10:04:59.535] Game 49 - Turn 10: Guess=109, Result=(3, 0)
+[2024-11-28 10:04:59.548] Game 49 won after 10 turns. Format failures: 5
+[2024-11-28 10:04:59.580] Final metrics: {
+  "success_rate": 44.0,
+  "successful_games": 22,
+  "format_failure_rate": 28.47222222222222,
+  "avg_turns": 7.5,
+  "std_turns": 2.4633679826980415,
+  "total_turns": 432,
+  "total_format_failures": 123
+}
