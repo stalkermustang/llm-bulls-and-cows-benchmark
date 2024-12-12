@@ -2,6 +2,7 @@ import warnings
 from typing import Dict, List, Optional, Tuple
 
 import litellm
+from litellm import Router
 
 from .game import BullsAndCowsGame
 from .prompts import (
@@ -24,6 +25,17 @@ class LLMPlayer:
         # Set litellm parameters
         litellm.set_verbose = self.config["llm"].get("litellm_verbose", False)
         litellm.drop_params = True
+
+        model_list = [
+            {
+                "model_name": self.config["llm"]["model"],
+                "litellm_params": {"model": self.config["llm"]["model"]},
+            }
+        ]
+
+        self.router = Router(  # used for handling Timeouts (mostly, free tier Gemini)
+            model_list, cooldown_time=45, allowed_fails=1, num_retries=3, retry_after=50  # seconds
+        )
 
     def get_next_guess(
         self,
@@ -69,7 +81,8 @@ class LLMPlayer:
             completion_params = {
                 "model": self.config["llm"]["model"],
                 "messages": self.messages,
-                "retry_strategy": "exponential_backoff_retry",
+                # retries are controlled via Router now
+                # "retry_strategy": "exponential_backoff_retry",
             }
 
             # Add optional parameters if they exist in config, e.g., temperature or max tokens
@@ -77,7 +90,7 @@ class LLMPlayer:
                 if param not in completion_params and not param.startswith("litellm"):
                     completion_params[param] = self.config["llm"][param]
 
-            response = litellm.completion(**completion_params)
+            response = self.router.completion(**completion_params)
 
             content = response.choices[0].message.content
             # Add model's response to history
