@@ -9,6 +9,7 @@
 | benchmark_4o-mini-4d | openai/gpt-4o-mini-2024-07-18 | 50 | 26.0% (15.9% - 39.6%) | 10.0 ± 3.1 | 0.1% |
 | benchmark_dschat25-4d | openrouter/deepseek/deepseek-chat | 50 | 18.0% (9.8% - 30.8%) | 11.6 ± 3.6 | 3.3% |
 | benchmark_qwq-pr-4d | openrouter/qwen/qwq-32b-preview | 50 | 14.0% (7.0% - 26.2%) | 8.1 ± 3.0 | 22.2% |
+| benchmark_flash-20-exp-4d | gemini/gemini-2.0-flash-exp | 50 | 10.0% (4.3% - 21.4%) | 10.0 ± 2.7 | 0.0% |
 | benchmark_geminipro15-002-4d | openrouter/google/gemini-pro-1.5 | 50 | 8.0% (3.2% - 18.8%) | 8.0 ± 4.1 | 0.1% |
 | benchmark_llama31-405bi-4d | openrouter/meta-llama/llama-3.1-405b-instruct | 50 | 8.0% (3.2% - 18.8%) | 9.5 ± 3.3 | 3.0% |
 | benchmark_flash15-002-4d | openrouter/google/gemini-flash-1.5 | 50 | 2.0% (0.4% - 10.5%) | 8.0 ± 0.0 | 0.9% |
