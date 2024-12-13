@@ -263,6 +263,7 @@ class BenchmarkRunner:
                     for future in newly_done:
                         results.append(future.result())
                         remaining_futures.remove(future)
+                    time.sleep(2)  # to speed up the benchmark: won't lock the results pane
 
                 # Final update
                 live.update(self._generate_status())
