@@ -17,7 +17,7 @@ A mini-framework for evaluating LLM performance on the [Bulls and Cows](https://
 
 ## Bulls and Cows Benchmark Results (4 digits w/o repetition)
 
-![Reults Table](./static/images/results.png "Results Table")
+![Reults Table](./static/images/results_2.png "Results Table")
 
 <details>
 <summary>... or as a Markdown table</summary>
